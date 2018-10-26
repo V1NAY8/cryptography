@@ -32,6 +32,7 @@ int fastmodular (int a, int b, int n)
     }
     return c%n;
 }
+
 int main()
 {
     int a,b,c;

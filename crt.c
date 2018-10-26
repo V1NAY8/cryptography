@@ -57,7 +57,7 @@ int main()
     for(i=0;i<n;i++)
     {
         x = x + (a[i]*M[i]*inv[i]);
-        printf("M%d : %d",i,M[i]);
+        printf("M %d : %d",i,M[i]);
     }
     printf("\n The Value of x is %d",x%product);
 
