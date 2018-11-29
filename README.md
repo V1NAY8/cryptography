@@ -1,5 +1,9 @@
 # List of Programmes for NSC Lab
 
+- [x] Caesar Cipher
+- [x] Hill Cipher
+- [x] Play Fair
+- [x] Random Prime Number from 1 to 1000
 - [x] Chinese Remainder Theorem
 - [x] Diffie Hellman Algorithm
 - [x] RSA Algorithm
