@@ -14,3 +14,4 @@
 - [x] Primitive Root
 - [x] Euclidean Algorithm
 - [x] Extended Euclidean Algorithm
+- [x] Simplified DES
